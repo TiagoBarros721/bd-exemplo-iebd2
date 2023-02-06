@@ -1,0 +1,1 @@
+SELECT id, nome, apelido, morada FROM pessoa ORDER BY nome ASC;

@@ -1,0 +1,7 @@
+[package]
+name = "manual_sql"
+version = "0.1.0"
+authors = ["@TiagoBarros721"]
+
+[dependencies]
+sqlite = "0.30.4"
