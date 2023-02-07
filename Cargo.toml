@@ -1,0 +1,7 @@
+[package]
+name = "ManualSQL"
+version = "0.1.0"
+authors = ["@TiagoBarros721"]
+
+[dependencies]
+rusqlite = "0.28.0"
